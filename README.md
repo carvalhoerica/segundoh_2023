@@ -1,3 +1,5 @@
+projeto da érica n°08 e emily n°7
+
 # Problema: anorexia
 O site ira retrata sobre o transtorno alimentar que é realidade de mais de 150 mil brasileiros, explicar e orientar os sintomas, os possiveis tratamentos e como procurar ajuda.
 
