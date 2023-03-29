@@ -3,8 +3,8 @@ body {
   }
   h1 {
     text-align: center;
-    top: -1000px;
-    text-align: center;
+    top: 1000px;
+    width: 200px;
   }
   .caixa1 {
      position: relative;
