@@ -11,12 +11,12 @@ body {
      background: rgb(203, 191, 247);
      width: 200px;
      height: 200px;
-     color: #ffffff;
+     color: #d9ffad;
      left: 50%;
   }
   .menuPrincipal {
     position: absolute;
-    background: rgb(115, 9, 129);
+    background: rgb(176, 240, 129);
     width: 100%;
     height: 45px;
     top: 0pt;
