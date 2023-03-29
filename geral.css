@@ -1,5 +1,5 @@
 body {
-    background: rgb(215, 240, 248)
+    background: rgb(233, 250, 255)
   }
   h1 {
     text-align: center;
@@ -16,7 +16,7 @@ body {
   }
   .menuPrincipal {
     position: absolute;
-    background: rgb(176, 240, 129);
+    background: rgb(222, 255, 185);
     width: 100%;
     height: 45px;
     top: 0pt;
@@ -33,7 +33,7 @@ body {
   }
   li a {
     display: block;
-    color:rgb(231, 231, 176);
+    color:rgb(0, 0, 0);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
