@@ -1,60 +1,16 @@
-body {
-    background: rgb(255, 255, 255)
-  }
-  h1 {
-    text-align: center;
-    top: 1000px;
-    width: 200px;
-  }
-  .caixa1 {
-     position: relative;
-     background: rgb(203, 191, 247);
-     width: 200px;
-     height: 200px;
-     color: #d9ffad;
-     left: 50%;
-  }
-  .menuPrincipal {
-    position: absolute;
-    background: rgb(222, 255, 185);
-    width: 100%;
-    height: 45px;
-    top: 0pt;
-    left: 0;
-  }
-  nav ul {  
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: 0;
-  }
-  li {
-    float: left;
-  }
-  li a {
-    display: block;
-    color:rgb(0, 0, 0);
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-family: 'Courier New', Courier, monospace;
-  }
-  li a:hover{
-    background: rgb(219, 209, 151);
-    color: black;
-  } 
-  .imgEstudo {
-     position: absolute;
-      width: 100%;
-      height: 250px;
-      background: #ffffff;
-      top: 950px;
-      left: 0;
-      margin: 20px;
-      border-color: blanchedalmond;
-      border-width: 20px;
-      border-style: solid;
-      padding: 20px;
-      display: flex;
-      justify-content: center;
-  }
+:root{
+  --cordefundo_um:#ffff5f
+  --cor_letra_de_fundo_escuro:#974B5F 
+}
+* {
+  margin:0;
+  padding:0;
+}
+.banner{
+  width: 100%;
+  height: 100px;
+  background-color: var(--cordefundo_um);
+}
+.estudante {
+  height: 90px;
+}
